@@ -8,4 +8,5 @@ import { LoginComponent } from './auth/login/login.component';
   templateUrl: './app.component.html',
   imports: [LoginComponent],
 })
-export class AppComponent {}
+export class AppComponent {
+}
